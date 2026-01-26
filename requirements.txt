@@ -1,0 +1,9 @@
+numpy
+torch
+requests
+gradio
+transformers
+sentence-transformers
+accelerate
+scikit-learn
+bitsandbytes

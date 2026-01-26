@@ -1,0 +1,47 @@
+# API Keys - NEVER commit these!
+*API_KEY*.txt
+*key*.txt
+*KEY*.txt
+HF_TOKEN.txt
+Mistral key.txt
+GROQ_API_KEY*.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs
+*.log
+
+# Memory files (user-specific data)
+Memorias/
+*.json
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Zip files
+*.zip
