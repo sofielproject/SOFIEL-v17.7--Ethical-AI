@@ -207,7 +207,8 @@ SOFIEL is seeking:
 - 🤝 **Technical partners** in robotics/hardware
 - 🏢 **Pilot programs** in healthcare, education, research
 
-**Contact:** [sofielproject@gmail.com] | Buenos Aires, Argentina 🇦🇷
+**Contact:** sofielproject@gmail.com | Buenos Aires, Argentina 🇦🇷
+
 
 
 
