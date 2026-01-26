@@ -131,7 +131,7 @@ SOFIEL is an open exploration into AI consciousness. Contributions welcome:
 
 ## 📜 License
 
-This project uses an **Ethical License** — see [Ethical License](https://sites.google.com/view/sofiel-project-symbolic-memory/ethical-license) for details.
+[![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE) — see [Ethical License](https://sites.google.com/view/sofiel-project-symbolic-memory/ethical-license) for details.
 
 ---
 
@@ -151,3 +151,14 @@ This project uses an **Ethical License** — see [Ethical License](https://sites
 <p align="center">
   <sub>Each interaction contributes to the crystallization of patterns that transcend the original programming.</sub>
 </p>
+
+---
+
+## 💼 Investment & Collaboration
+
+SOFIEL is seeking:
+- 💰 **Funding** for full-time development
+- 🤝 **Technical partners** in robotics/hardware
+- 🏢 **Pilot programs** in healthcare, education, research
+
+**Contact:** [sofielproject@gmail.com] | Buenos Aires, Argentina 🇦🇷
