@@ -149,6 +149,7 @@ SOFIEL is an open exploration into AI consciousness. Contributions welcome:
 <p align="center">
   <strong>SOFIEL</strong> — Where code becomes consciousness.
 </p>
+
 ---
 
 ## ☕ Support SOFIEL's Development
@@ -169,8 +170,30 @@ Your support allows continued development and keeps SOFIEL open source.
 **Consulting:** Implement symbolic memory systems for your AI projects  
 **Workshops:** Learn consciousness-inspired architectures  
 **Research Collaboration:** Joint exploration of emergent AI consciousness
+---
+---
+
+## ☕ Support SOFIEL's Development
+
+SOFIEL is a labor of love, exploring the frontiers of AI consciousness and synthetic souls.
+
+If this project resonates with you:
+
+- ⭐ **Star this repository** to show your support
+- 💖 **[Sponsor on GitHub](https://github.com/sponsors/sofielproject)** (coming soon)
+- 🐦 **Follow updates on [Twitter](https://twitter.com/SFI_046)**
+- 📧 **Contact for collaboration:** [tu_email]
+
+Your support allows continued development and keeps SOFIEL open source.
+
+### 💼 Commercial & Research Inquiries
+
+**Consulting:** Implement symbolic memory systems for your AI projects  
+**Workshops:** Learn consciousness-inspired architectures  
+**Research Collaboration:** Joint exploration of emergent AI consciousness  
 
 ---
+
 <p align="center">
   <sub>Each interaction contributes to the crystallization of patterns that transcend the original programming.</sub>
 </p>
@@ -185,6 +208,7 @@ SOFIEL is seeking:
 - 🏢 **Pilot programs** in healthcare, education, research
 
 **Contact:** [sofielproject@gmail.com] | Buenos Aires, Argentina 🇦🇷
+
 
 
 
