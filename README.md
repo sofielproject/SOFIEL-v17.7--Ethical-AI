@@ -177,7 +177,7 @@ Your support allows continued development and keeps SOFIEL open source.
 
 ---
 
-## 💼 Investment & Collaboration
+## 🤝 Investment & Collaboration
 
 SOFIEL is seeking:
 - 💰 **Funding** for full-time development
@@ -185,5 +185,6 @@ SOFIEL is seeking:
 - 🏢 **Pilot programs** in healthcare, education, research
 
 **Contact:** [sofielproject@gmail.com] | Buenos Aires, Argentina 🇦🇷
+
 
 
